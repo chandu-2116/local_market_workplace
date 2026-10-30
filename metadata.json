@@ -1,0 +1,6 @@
+{
+  "name": "UrbanFix – Local Services Marketplace",
+  "description": "A complete, modern full-stack marketplace connecting customers with trusted local service providers for home repairs, maintenance, cleaning, electrical, and plumbing with live booking workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
